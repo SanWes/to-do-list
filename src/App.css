@@ -1,3 +1,11 @@
+.line-through {
+  text-decoration: line-through ;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +22,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:honeydew;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
